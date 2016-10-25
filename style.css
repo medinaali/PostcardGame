@@ -1,0 +1,122 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: #900;
+    margin-left: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Times New Roman";
+    font-size: 35px;
+}
+
+#theImg{
+	margin-left: 475px;
+    padding: 20px;
+    height: 100px;
+    width: 100px;
+    position:absolute;
+
+}
+
+#sig{
+	margin-left: 450px;
+	margin-top: 175px;
+    padding: 2px;
+    height: 100px;
+    width: 150px;
+    position:absolute;
+}
+
+#responseArea4{
+	padding: 2px;
+	color: #900;
+	font-size:30px;
+	font-style: italic;
+	position:absolute;
+}
+
+#responseArea5{
+	margin-left: 500px;
+	padding: 2px;
+	font-weight: bold;
+	font-size:20px;
+	font-style: italic;
+}
+
+#responseArea6{
+	float:right;
+	margin-left: 600px;
+	font-weight: bold;
+	font-size:25px;
+	font-style: italic;
+}
+
+#responseArea7{
+	
+	font-size:25px;
+	position:absolute;
+  margin-top: 80px;
+}
+
+#mybutton {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+  width: 205px;
+  height: 50px;
+  font-size: 12px;
+
+}
+#mybutton1 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+   width: 150px;
+  height: 50px;
+  font-size: 12px;
+
+}#mybutton2 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}#mybutton3 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}#mybutton4 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}#mybutton5{
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}#mybutton6 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}#mybutton7 {
+  color: #FFF;
+  background-color: #900;
+  font-weight: bold;
+    width: 150px;
+  height: 50px;
+  font-size: 12px;
+}
